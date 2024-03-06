@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MassimiIiano
-- 👀 I’m interested in AI, datasience and programming in general
-- 🌱 I’m currently learning python, php, java, c/c++ and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. you dont
+- 👀 I’m interested in AI, data science and programming in general
+- 🌱 I’m currently studiing computer science at unibz
+- 📫 How to reach me: guro6mlp6@mozmail.com 
 
 <!---
 MassimiIiano/MassimiIiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
